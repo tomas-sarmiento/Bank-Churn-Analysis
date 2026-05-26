@@ -33,3 +33,6 @@ The original dataset was split into 3 related tables:
 
 ## Dataset
 Source: [Bank Customer Churn Dataset - Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
+
+## Dashboard Preview
+![Dashboard](dashboard.jpg)
