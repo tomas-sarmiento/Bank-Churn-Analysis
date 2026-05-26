@@ -10,6 +10,16 @@ to uncover churn patterns, and visualized insights in Power BI.
 - pgAdmin 4
 - Power BI
 
+## Skills Demonstrated
+- SQL Joins
+- Aggregations
+- CTEs
+- Data Cleaning
+- Relational Database Design
+- Data Visualization
+- Business Analytics
+- Customer Segmentation
+
 ## Database Structure
 The original dataset was split into 3 related tables:
 - **customers** — personal data (geography, gender, age)
